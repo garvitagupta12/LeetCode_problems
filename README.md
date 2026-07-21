@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -68,5 +69,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
