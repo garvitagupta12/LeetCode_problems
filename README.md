@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
