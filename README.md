@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
