@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
