@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
