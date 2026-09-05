@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
