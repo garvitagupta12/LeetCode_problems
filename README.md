@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
