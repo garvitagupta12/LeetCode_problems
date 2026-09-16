@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
@@ -269,4 +271,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
