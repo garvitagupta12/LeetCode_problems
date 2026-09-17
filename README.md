@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
