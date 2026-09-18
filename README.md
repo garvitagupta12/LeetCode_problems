@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
+| [0622-design-circular-queue](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0203-remove-linked-list-elements) |
+| [0622-design-circular-queue](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0622-design-circular-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Stack
 |  |
@@ -294,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
