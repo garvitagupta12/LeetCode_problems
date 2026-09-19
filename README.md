@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2029-stone-game-ix) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |
