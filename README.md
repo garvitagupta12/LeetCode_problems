@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
+| [0738-monotone-increasing-digits](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0738-monotone-increasing-digits) |
 | [1927-sum-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
