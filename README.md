@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
