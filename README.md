@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
