@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
 | [0371-sum-of-two-integers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
