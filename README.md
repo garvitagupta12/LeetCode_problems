@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
