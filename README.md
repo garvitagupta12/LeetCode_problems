@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0264-ugly-number-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0264-ugly-number-ii) |
 | [0371-sum-of-two-integers](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0371-sum-of-two-integers) |
 | [0458-poor-pigs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0264-ugly-number-ii) |
 | [0458-poor-pigs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
