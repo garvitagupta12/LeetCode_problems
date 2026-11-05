@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0278-first-bad-version) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
