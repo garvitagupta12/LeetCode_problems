@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0347-top-k-frequent-elements) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1267-count-servers-that-communicate](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2029-stone-game-ix) |
 | [2347-best-poker-hand](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2404-most-frequent-even-element) |
@@ -437,8 +440,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1267-count-servers-that-communicate) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
