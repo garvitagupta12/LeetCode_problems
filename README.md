@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/0940-distinct-subsequences-ii) |
+| [3693-climbing-stairs-ii](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
