@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/garvitagupta12/LeetCode_problems/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/garvitagupta12/LeetCode_problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/garvitagupta12/LeetCode_problems/tree/master/3498-reverse-degree-of-a-string) |
